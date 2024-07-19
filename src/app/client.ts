@@ -13,5 +13,5 @@ if (!clientId) {
 }
 
 export const client = createThirdwebClient({
-  clientId: '',
+  clientId: "<IJrKOcrsFvTfCNdSyUj1tPJQ4ZaFGZLWcyS3FWvy-YyA4YglLBk28VFvQQXBVnjHkRzbFhSvMZaSjZyEKVdREg>",
 });
